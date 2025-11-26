@@ -1,0 +1,38 @@
+.colorUno {
+ background-color:#A7D3E8 /* Example: a blue color */
+}
+
+.colorDos{ background-color:#2c5c84
+}
+
+.colorTres{ background-color:#2c5c84
+
+}
+
+.fuente {
+ font-family: "Anaheim", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.just-another-hand-regular {
+  font-family: "Just Another Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.fondo{background-image: url("../IMG/fondo3.jpg");
+  background-size: cover;
+  background-position: top center;
+  background-attachment: fixed;
+  padding: 29%;
+
+}
+.btn.btn.btn-primary{
+ background-color:#A7D3E8;
+ border: #2c5c84;
+ color: #f2f6f9;
+
+}
